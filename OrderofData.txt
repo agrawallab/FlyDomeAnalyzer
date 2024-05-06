@@ -1,0 +1,60 @@
+Modularity (LOI)
+Social Clustering Bout Length
+Stops bout length
+Stops
+Betweenness Centrality (LOI)
+SD Betweenness Centrality (LOI)
+Modularity (NOI)
+Betweenness Centrality (NOI)
+SD Betweenness Centrality (NOI)
+Social Clustering
+SD Strength length of interaction
+Grooming
+Grooming bout length
+Approach bout length
+Stops frequency
+Social clustering frequency
+absanglefrom1to2_nose2ell
+Grooming frequency
+absthetadiff_anglesub
+angleonclosestfly
+absthetadiff_nose2ell
+absphidiff_nose2ell
+absphidiff_anglesub
+anglefrom1to2_nose2ell
+dtheta
+anglefrom1to2_anglesub
+dphi
+Song bout length
+dcenter
+ddcenter
+dist2wall
+Walk bout length
+Touch bout length
+anglesub
+Chain
+Chain bout length
+nflies_close
+Density (LOI)
+Strength (LOI)
+danglesub
+Approach
+Touch
+Chasev7
+Song
+Song frequency
+Chasev7 bout length
+SD Strength (NOI)
+Density (NOI)
+Strenght (NOI)
+Approach frequency
+Touch frequency
+Chain frequency
+Chasev7 frequency
+Walk frequency
+velmag
+BodyTurns bout length
+BodyTurns
+absdtheta
+Walk
+BodyTurns frequency

@@ -1,0 +1,1 @@
+JAABAScores2CSV("D:\Projects\FlyTracker + JAABA\FlyTracker_JAABA_test\2nd Set\A2_p01\A2_p01_JAABA\scores_Lunge.mat","D:\Projects\FlyTracker + JAABA\FlyTracker_JAABA_test\2nd Set\A2_p01\A2_p01_JAABA\scores_Lunge.csv")
