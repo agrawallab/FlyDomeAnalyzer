@@ -2,8 +2,7 @@
 
 We created a MATLAB app with GUI that consists of a series of buttons that can be executed one after the other without much effort. The steps of the GUI have been explained below:
 
-
-![FlyDomeAnalyzer MATLAB App](https://github.com/user-attachments/assets/c88a62b2-d0a0-48fe-919e-a981fe18e262)
+![FlyDomeAnalyzer MATLAB App_ Updated](https://github.com/user-attachments/assets/07ae57f3-139f-4178-8bc3-044308cd0963)
 
 To use this download the repo as a zip file and extract it in a location of your choice.
 To open the GUI, open MATLAB and type FlyDomeAnalyzer
